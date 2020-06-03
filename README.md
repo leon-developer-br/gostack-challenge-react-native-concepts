@@ -15,9 +15,3 @@ npm run android || npm run ios
 ```
 npm test
 ```
-
-### Pacotes
-
-```
-* react-native-simple-toast: Toast
-```
